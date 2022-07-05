@@ -46,7 +46,7 @@ $ npm/yarn run dev
 
 Desenvolvido utilizando as seguintes tecnologias:
 
-- [Javascript](https://www.javascript.com/)
+- [TYPESCRIPT](https://www.typescriptlang.org/)
 - [NodeJs](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
 - [Jwt](https://jwt.io/)
